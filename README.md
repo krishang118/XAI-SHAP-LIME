@@ -48,5 +48,14 @@ LIME (Local Interpretable Model-Agnostic Explanations) explains a prediction by 
 3. Open and run the first cell of `XAI.ipynb` Jupyter Notebook to install the required dependencies.
 4. Then, run the second cell to train the ANN on the Iris dataset, and then the third cell for the SHAP and LIME analysis.
 
-XAI-SHAP-LIME
-A comprehensive implementation of SHAP and LIME Explainable AI (XAI) techniques using the Iris dataset.
+## Acknowledgements
+
+Special thanks to the Scientific Analysis Group (SAG), Defence Research and Development Organization (DRDO), for supporting this work.
+
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License. 
