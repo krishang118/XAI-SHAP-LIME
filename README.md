@@ -9,7 +9,7 @@ SHAP and LIME are two popular model-agnostic (can be applied to any model; just 
 
 SHAP (SHapley Additive exPlanations), specifically Shapley values, help in assigning each feature a positive/negative importance score (SHAP value), for a particular prediction. Originated from cooperative game theory, Shapley values fairly distribute the contribution of each player (feature) to the final outcome (prediction). We can visualize SHAP values with different kinds of plots.
 
-LIME (Local Interpretable Model-Agnostic Explanations) explains a prediction by fitting a simple, interpretable 'surrogate' model (like linear regression) around the neighborhood of the input instance. It perturbs the input slightly (such as, changing the feature values a little) and observes changes in predictions to interpret the local behaviour using the surrogate model, which helps us to understand feature importance. And just like SHAP, we use different graphs/plots to visualize this too.
+LIME (Local Interpretable Model-Agnostic Explanations) explains a prediction by fitting a simple, interpretable 'surrogate' model (like linear regression) around the neighborhood of the input instance. It perturbs the input slightly (such as, changing the feature values a little) and observes changes in predictions to interpret the local behaviour using the surrogate model, which helps us to understand feature importance. And just like SHAP, we use different graphs/plots for visualization here.
 
 ## Project Flow
 
