@@ -16,7 +16,7 @@ LIME (Local Interpretable Model-Agnostic Explanations) explains a prediction by 
 1. Firstly, we build and train an ANN for Iris Classification. We use a 4→8→6→3 neuron dense-layered architecture with ReLU and Softmax activation.
 2. Then after successful training, we move on to the XAI analysis. We plot the following SHAP and LIME plots:
 
-#### 1: SHAP Analysis -
+#### Part 1: SHAP Analysis -
 1. Global Feature Importance:
    - Bar plots showing overall feature importance
    - Summary plots with value distributions
