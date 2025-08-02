@@ -46,7 +46,7 @@ LIME (Local Interpretable Model-Agnostic Explanations) explains a prediction by 
 1. Make sure Python 3.8+ is installed in your system.
 2. Clone this repository on your local machine.
 3. Open and run the first cell of `XAI.ipynb` Jupyter Notebook to install the required dependencies.
-4. Then, run the second cell to train the ANN on the Iris dataset, and then the third cell for the SHAP and LIME analysis.
+4. Then, run the second cell to train the ANN on the Iris dataset, and then run the third cell for the SHAP and LIME analysis.
 
 ## Acknowledgements
 
